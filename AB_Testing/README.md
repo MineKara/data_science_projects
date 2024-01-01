@@ -2,11 +2,14 @@
 
 ## Business Problem
 
+<img align="right" width="200" src="AB_testing.png" />
+
 Facebook recently introduced a new bidding type, "average bidding," as an alternative to the existing "maximumbidding" bidding type.
 
 One of our customers, bombabomba.com, decided to test this new feature and wants to do an A/B test to see if average bidding brings more conversions than maximumbidding.
 
 A/B testing has been going on for 1 month and bombabomba.com now expects you to analyze the results of this A/B test. The ultimate measure of success for Bombabomba.com is Purchase. Therefore, the focus should be on the Purchase metric for statistical testing.
+
 
 ## Dataset
 
@@ -19,6 +22,3 @@ This data set, which includes a company's website information, includes informat
 | Purchase   | Number of products purchased after ads clicked | 
 | Earning    | Income after purchased products                | 
 
-<p align="center" width="100%">
-    <img width="30%" src="AB_testing.png">
-</p>
