@@ -2,15 +2,15 @@
 
 ## Business Problem
 
-It is expected to develop a machine learning model that can predict customers who will leave the company.
+<img align="right" width="400" src="churn.jpg" />
 
-<p align="center" width="100%">
-    <img width="40%" src="churn.jpg">
-</p>
+It is expected to develop a machine learning model that can predict customers who will leave the company.
 
 ## Dataset
 
 Telco customer churn data includes information about a fictitious telecom company that provided home phone and Internet services to 7,043 customers in California in the third quarter. It shows which customers left, stayed, or signed up for their service.
+
+<br>
 
 | Column            | Description                                                                                                    |
 |-------------------|----------------------------------------------------------------------------------------------------------------|
