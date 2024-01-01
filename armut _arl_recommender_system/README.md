@@ -4,11 +4,16 @@
 
 Armut, Turkey's largest online service platform, brings together service providers and those who want to receive service. It allows you to easily access services such as cleaning, renovation and transportation with a few taps on your computer or smartphone. It is desired to create a product recommendation system with Association Rule Learning, using the data set containing service users and the services and categories received by these users.
 
+<p align="center" width="100%">
+    <img width="40%" src="arl.jpg">
+</p>
+
 ## Dataset
 
 The data set consists of the services received by customers and the categories of these services. It contains date and time information of each service received.
 
-
+| Column     | Description                                             |
+|------------|---------------------------------------------------------|
 | UserId     | Customer id                                             |
 | ServiceId  | They are anonymized services belonging to each category |
 | CategoryId | They are anonymized categories                          |
@@ -20,6 +25,4 @@ The data set consists of the services received by customers and the categories o
 * CategoryId: They are anonymized categories. (Example: Cleaning, transportation, renovation category)
 
 
-<p align="center" width="100%">
-    <img width="60%" src="arl.jpg">
-</p>
+
