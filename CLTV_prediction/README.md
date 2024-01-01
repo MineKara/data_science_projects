@@ -4,6 +4,10 @@
 
 FLO wants to determine a roadmap for sales and marketing activities. In order for the company to make medium-long term plans, it is necessary to estimate the potential value that existing customers will provide to the company in the future.
 
+<p align="center" width="100%">
+    <img width="40%" src="cltv.png">
+</p>
+
 ## Dataset
 
 The data set consists of information obtained from the past shopping behavior of customers who made their last purchases from Flo via OmniChannel (both online and offline shopping) in 2020 - 2021.
@@ -23,7 +27,3 @@ The data set consists of information obtained from the past shopping behavior of
 | customer_value_total_ever_online  | Total fee paid by the customer for online shopping                                                                               |
 | interested_in_categories_12       | List of categories the customer has shopped  in the last 12 months                                                               |
 | store_type                        | It represents 3 different companies. If the person who shopped from company A also shopped from company B, it is written as A,B. |
-
-<p align="center" width="100%">
-    <img width="60%" src="cltv.png">
-</p>
