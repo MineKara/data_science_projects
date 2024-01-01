@@ -8,7 +8,8 @@ FLO wants to determine a roadmap for sales and marketing activities. In order fo
 
 The data set consists of information obtained from the past shopping behavior of customers who made their last purchases from Flo via OmniChannel (both online and offline shopping) in 2020 - 2021.
 
-
+| Column                            | Description                                                                                                                      |
+|-----------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
 | master_id                         | Unique customer id                                                                                                               |
 | order_channel                     | Which channel of the shopping platform is used  (Android, iOS, Desktop, Mobile)                                                  |
 | last_order_channel                | Channel where last purchase was made                                                                                             |
