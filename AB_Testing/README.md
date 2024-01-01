@@ -20,5 +20,5 @@ This data set, which includes a company's website information, includes informat
 | Earning    | Income after purchased products                | 
 
 <p align="center" width="100%">
-    <img width="60%" src="AB_testing.png">
+    <img width="30%" src="AB_testing.png">
 </p>
