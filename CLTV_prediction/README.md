@@ -2,15 +2,18 @@
 
 ## Business Problem
 
+<img align="right" width="400" src="cltv.png" />
+
 FLO wants to determine a roadmap for sales and marketing activities. In order for the company to make medium-long term plans, it is necessary to estimate the potential value that existing customers will provide to the company in the future.
 
-<p align="center" width="100%">
-    <img width="40%" src="cltv.png">
-</p>
+
 
 ## Dataset
 
 The data set consists of information obtained from the past shopping behavior of customers who made their last purchases from Flo via OmniChannel (both online and offline shopping) in 2020 - 2021.
+
+<br>
+<br>
 
 | Column                            | Description                                                                                                                      |
 |-----------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
