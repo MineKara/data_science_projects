@@ -1,15 +1,17 @@
 # Customer Segmentation with RFM Analysis
 
 ## Business Problem
-FLO, an online shoe store, wants to divide its customers into segments and determine marketing strategies according to these segments. To this end, customers' behaviors will be defined and groups will be created based on clusters in these behaviors.
 
-<p align="center" width="100%">
-    <img width="40%" src="rfm.jpg">
-</p>
+<img align="right" width="400" src="rfm.jpg" />
+
+FLO, an online shoe store, wants to divide its customers into segments and determine marketing strategies according to these segments. To this end, customers' behaviors will be defined and groups will be created based on clusters in these behaviors.
 
 ## Dataset
 
 The data set consists of information obtained from the past shopping behavior of customers who made their last purchases from Flo via OmniChannel (both online and offline shopping) in 2020 - 2021.
+
+<br>
+<br>
 
 | Column                            | Description                                                                     |
 |-----------------------------------|---------------------------------------------------------------------------------|
