@@ -4,10 +4,16 @@
 
 It is expected to develop a machine learning model that can predict customers who will leave the company.
 
+<p align="center" width="100%">
+    <img width="40%" src="churn.jpg">
+</p>
+
 ## Dataset
 
 Telco customer churn data includes information about a fictitious telecom company that provided home phone and Internet services to 7,043 customers in California in the third quarter. It shows which customers left, stayed, or signed up for their service.
 
+| Column            | Description                                                                                                    |
+|-------------------|----------------------------------------------------------------------------------------------------------------|
 | CustomerId        | Unique Customer Id                                                                                             |
 | Gender            | Gender                                                                                                         |
 | SeniorCitizen     | Whether the customer is old (1, 0)                                                                             |
@@ -30,6 +36,3 @@ Telco customer churn data includes information about a fictitious telecom compan
 | TotalCharges      | Total amount charges                                                                                           |
 | Churn             | Whether the customer uses it (Yes or No)                                                                       |
 
-<p align="center" width="100%">
-    <img width="60%" src="churn.jpg">
-</p>
