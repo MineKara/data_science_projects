@@ -12,10 +12,10 @@ A/B testing has been going on for 1 month and bombabomba.com now expects you to 
 
 This data set, which includes a company's website information, includes information such as the number of advertisements that users see and click on, as well as income obtained from it. There are two separate data sets: Control and Test group. These data sets are located on separate sheets of the ab_testing.xlsx. Maximum Bidding was applied to the control group and Average Bidding was applied to the test group.
 
-| Impression | Number of ad views                             |
-| Click      | Number of clicks on the ad displayed           |
-| Purchase   | Number of products purchased after ads clicked |
-| Earning    | Income after purchased products                |
+| Impression | Number of ad views                             | <br>
+| Click      | Number of clicks on the ad displayed           | <br>
+| Purchase   | Number of products purchased after ads clicked | <br>
+| Earning    | Income after purchased products                | <br>
 
 <p align="center" width="100%">
     <img width="60%" src="AB_testing.png">
